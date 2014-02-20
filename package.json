@@ -1,17 +1,5 @@
 {
-  "name": "directionality",
+  "name": "component-directionality",
   "version": "0.1.0",
-  "devDependencies": {
-    "mocha": "*",
-    "expect.js": "*"
-  },
-  "component": {
-    "scripts": {
-      "directionality/index.js": "index.js"
-    }
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/component/directionality.git"
-  }
+  "dependencies": {}
 }
